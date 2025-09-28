@@ -1,0 +1,20 @@
+{
+  "strarray": [
+    {
+      "name": "available_things",
+      "type": "array",
+      "value": [
+        { "value": "晨练" },
+        { "value": "准备早餐" },
+        { "value": "阅读经典" },
+        { "value": "学习ArkTS" },
+        { "value": "看电视放松" },
+        { "value": "整理房间" },
+        { "value": "购买生活用品" },
+        { "value": "写工作报告" },
+        { "value": "学习新技能" },
+        { "value": "与朋友聚餐" }
+      ]
+    }
+  ]
+}
