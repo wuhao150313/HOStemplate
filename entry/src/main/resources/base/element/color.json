@@ -1,5 +1,6 @@
 {
   "color": [
+
     {
       "name": "background_color",
       "value": "#F5F5F5"
@@ -11,6 +12,155 @@
     {
       "name": "start_window_background_dark",
       "value": "#000000"
-    }
+    },
+
+    { "name": "background_main", "value": "#FFFFFF" },
+    { "name": "background_secondary", "value": "#F5F5F5" },
+    { "name": "background_tertiary", "value": "#EEEEEE" },
+    { "name": "background_dark", "value": "#121212" },
+    { "name": "background_dark_secondary", "value": "#1E1E1E" },
+
+
+    { "name": "text_primary", "value": "#000000" },
+    { "name": "text_secondary", "value": "#666666" },
+    { "name": "text_tertiary", "value": "#999999" },
+    { "name": "text_disabled", "value": "#CCCCCC" },
+    { "name": "text_light_primary", "value": "#FFFFFF" },
+    { "name": "text_light_secondary", "value": "#E0E0E0" },
+    { "name": "text_link", "value": "#2196F3" },
+    { "name": "text_link_light", "value": "#4DA6FF" },
+
+
+    { "name": "error", "value": "#F44336" },
+    { "name": "error_dark", "value": "#D32F2F" },
+    { "name": "error_light", "value": "#FFEBEE" },
+    { "name": "warning", "value": "#FF9800" },
+    { "name": "warning_dark", "value": "#F57C00" },
+    { "name": "warning_light", "value": "#FFF3E0" },
+    { "name": "danger", "value": "#E53935" },
+    { "name": "danger_dark", "value": "#C62828" },
+
+
+    { "name": "success", "value": "#4CAF50" },
+    { "name": "success_dark", "value": "#388E3C" },
+    { "name": "success_light", "value": "#E8F5E9" },
+    { "name": "online_status", "value": "#00E676" },
+    { "name": "available", "value": "#66BB6A" },
+
+
+    { "name": "info", "value": "#2196F3" },
+    { "name": "info_dark", "value": "#1976D2" },
+    { "name": "info_light", "value": "#E3F2FD" },
+    { "name": "primary", "value": "#2196F3" },
+    { "name": "primary_dark", "value": "#1565C0" },
+    { "name": "primary_light", "value": "#BBDEFB" },
+    { "name": "accent", "value": "#03A9F4" },
+    { "name": "link", "value": "#2196F3" },
+    { "name": "button_primary", "value": "#2196F3" },
+    { "name": "button_primary_pressed", "value": "#1976D2" },
+    { "name": "border_focused", "value": "#2196F3" },
+
+
+    { "name": "yellow_primary", "value": "#FFEB3B" },
+    { "name": "yellow_dark", "value": "#FDD835" },
+    { "name": "yellow_light", "value": "#FFFDE7" },
+    { "name": "star", "value": "#FFC107" },
+    { "name": "highlight", "value": "#FFF9C4" },
+
+
+    { "name": "orange_primary", "value": "#FF9800" },
+    { "name": "orange_dark", "value": "#F57C00" },
+    { "name": "orange_light", "value": "#FFF3E0" },
+    { "name": "notification", "value": "#FF9800" },
+    { "name": "badge", "value": "#FF9800" },
+
+
+    { "name": "purple_primary", "value": "#9C27B0" },
+    { "name": "purple_dark", "value": "#7B1FA2" },
+    { "name": "purple_light", "value": "#F3E5F5" },
+    { "name": "creative", "value": "#BA68C8" },
+    { "name": "premium", "value": "#9C27B0" },
+
+
+    { "name": "cyan_primary", "value": "#00BCD4" },
+    { "name": "cyan_dark", "value": "#0097A7" },
+    { "name": "cyan_light", "value": "#E0F7FA" },
+    { "name": "refresh", "value": "#00BCD4" },
+    { "name": "process", "value": "#4DD0E1" },
+
+
+    { "name": "gray_50", "value": "#FAFAFA" },
+    { "name": "gray_100", "value": "#F5F5F5" },
+    { "name": "gray_200", "value": "#EEEEEE" },
+    { "name": "gray_300", "value": "#E0E0E0" },
+    { "name": "gray_400", "value": "#BDBDBD" },
+    { "name": "gray_500", "value": "#9E9E9E" },
+    { "name": "gray_600", "value": "#757575" },
+    { "name": "gray_700", "value": "#616161" },
+    { "name": "gray_800", "value": "#424242" },
+    { "name": "gray_900", "value": "#212121" },
+    { "name": "border_normal", "value": "#E0E0E0" },
+    { "name": "divider", "value": "#EEEEEE" },
+    { "name": "shadow", "value": "#0000001A" },
+
+
+    { "name": "button_normal", "value": "#E0E0E0" },
+    { "name": "button_pressed", "value": "#BDBDBD" },
+    { "name": "button_disabled", "value": "#F5F5F5" },
+    { "name": "button_text", "value": "#000000" },
+    { "name": "button_text_light", "value": "#FFFFFF" },
+    { "name": "button_secondary", "value": "#F5F5F5" },
+    { "name": "button_secondary_pressed", "value": "#EEEEEE" },
+
+
+    { "name": "input_background", "value": "#FFFFFF" },
+    { "name": "input_text", "value": "#000000" },
+    { "name": "input_hint", "value": "#9E9E9E" },
+    { "name": "input_border", "value": "#E0E0E0" },
+    { "name": "input_border_focused", "value": "#2196F3" },
+    { "name": "input_error", "value": "#F44336" },
+
+
+    { "name": "list_item_background", "value": "#FFFFFF" },
+    { "name": "list_item_background_pressed", "value": "#F5F5F5" },
+    { "name": "list_item_divider", "value": "#EEEEEE" },
+    { "name": "list_section_header", "value": "#F5F5F5" },
+    { "name": "list_section_text", "value": "#757575" },
+
+
+    { "name": "nav_bar_background", "value": "#FFFFFF" },
+    { "name": "nav_bar_item_normal", "value": "#9E9E9E" },
+    { "name": "nav_bar_item_selected", "value": "#2196F3" },
+    { "name": "toolbar_background", "value": "#FFFFFF" },
+    { "name": "toolbar_text", "value": "#000000" },
+
+
+    { "name": "dialog_background", "value": "#FFFFFF" },
+    { "name": "dialog_title", "value": "#000000" },
+    { "name": "dialog_content", "value": "#616161" },
+    { "name": "dialog_button_positive", "value": "#2196F3" },
+    { "name": "dialog_button_negative", "value": "#616161" },
+    { "name": "toast_background", "value": "#424242CC" },
+    { "name": "toast_text", "value": "#FFFFFF" },
+
+
+    { "name": "loading_background", "value": "#00000033" },
+    { "name": "loading_progress", "value": "#2196F3" },
+    { "name": "empty_background", "value": "#FFFFFF" },
+    { "name": "empty_text", "value": "#9E9E9E" },
+    { "name": "selected", "value": "#E3F2FD" },
+    { "name": "pressed", "value": "#F5F5F5" },
+    { "name": "disabled", "value": "#F5F5F5" },
+
+
+    { "name": "splash_background", "value": "#FFFFFF" },
+    { "name": "splash_text", "value": "#2196F3" },
+    { "name": "tab_indicator", "value": "#2196F3" },
+    { "name": "switch_on", "value": "#2196F3" },
+    { "name": "switch_off", "value": "#BDBDBD" },
+    { "name": "slider_track", "value": "#E0E0E0" },
+    { "name": "slider_progress", "value": "#2196F3" },
+    { "name": "rating_star_filled", "value": "#FFC107" },
+    { "name": "rating_star_empty", "value": "#E0E0E0" }
   ]
 }

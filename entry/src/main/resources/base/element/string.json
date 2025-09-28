@@ -14,11 +14,11 @@
     },
     {
       "name": "app_name",
-      "value": "待办事项管理"
+      "value": "代码模板"
     },
     {
       "name": "app_name_description",
-      "value": "一个展示列表编辑功能的HarmonyOS应用"
+      "value": "代码起步脚手架"
     },
     {
       "name": "todo",
@@ -43,6 +43,398 @@
     {
       "name": "incomplete",
       "value": "功能开发中..."
+    },
+    {
+      "name": "nav_home",
+      "value": "首页"
+    },
+    {
+      "name": "nav_discover",
+      "value": "发现"
+    },
+    {
+      "name": "nav_message",
+      "value": "消息"
+    },
+    {
+      "name": "nav_mine",
+      "value": "我的"
+    },
+    {
+      "name": "nav_setting",
+      "value": "设置"
+    },
+    {
+      "name": "nav_back",
+      "value": "返回"
+    },
+    {
+      "name": "nav_menu",
+      "value": "菜单"
+    },
+    {
+      "name": "nav_search",
+      "value": "搜索"
+    },
+    {
+      "name": "nav_add",
+      "value": "添加"
+    },
+    {
+      "name": "nav_more",
+      "value": "更多"
+    },
+    {
+      "name": "btn_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "btn_save",
+      "value": "保存"
+    },
+    {
+      "name": "btn_delete",
+      "value": "删除"
+    },
+    {
+      "name": "btn_share",
+      "value": "分享"
+    },
+    {
+      "name": "btn_copy",
+      "value": "复制"
+    },
+    {
+      "name": "btn_paste",
+      "value": "粘贴"
+    },
+    {
+      "name": "btn_cut",
+      "value": "剪切"
+    },
+    {
+      "name": "btn_refresh",
+      "value": "刷新"
+    },
+    {
+      "name": "btn_load_more",
+      "value": "加载更多"
+    },
+    {
+      "name": "btn_submit",
+      "value": "提交"
+    },
+    {
+      "name": "btn_reset",
+      "value": "重置"
+    },
+    {
+      "name": "btn_export",
+      "value": "导出"
+    },
+    {
+      "name": "btn_import",
+      "value": "导入"
+    },
+    {
+      "name": "btn_preview",
+      "value": "预览"
+    },
+    {
+      "name": "btn_edit",
+      "value": "编辑"
+    },
+    {
+      "name": "btn_detail",
+      "value": "查看详情"
+    },
+    {
+      "name": "btn_back",
+      "value": "返回"
+    },
+    {
+      "name": "btn_next",
+      "value": "下一步"
+    },
+    {
+      "name": "btn_prev",
+      "value": "上一步"
+    },
+    {
+      "name": "tip_save_success",
+      "value": "保存成功"
+    },
+    {
+      "name": "tip_save_failed",
+      "value": "保存失败，请重试"
+    },
+    {
+      "name": "tip_delete_success",
+      "value": "删除成功"
+    },
+    {
+      "name": "tip_delete_failed",
+      "value": "删除失败，请重试"
+    },
+    {
+      "name": "tip_submit_success",
+      "value": "提交成功"
+    },
+    {
+      "name": "tip_submit_failed",
+      "value": "提交失败，请检查信息后重试"
+    },
+    {
+      "name": "tip_load_success",
+      "value": "加载成功"
+    },
+    {
+      "name": "tip_load_failed",
+      "value": "加载失败，请检查网络"
+    },
+    {
+      "name": "tip_network_error",
+      "value": "网络异常，请检查网络连接"
+    },
+    {
+      "name": "tip_no_data",
+      "value": "暂无数据"
+    },
+    {
+      "name": "tip_no_more_data",
+      "value": "没有更多数据了"
+    },
+    {
+      "name": "tip_input_empty",
+      "value": "请输入内容"
+    },
+    {
+      "name": "tip_input_invalid",
+      "value": "输入格式不正确"
+    },
+    {
+      "name": "tip_confirm_delete",
+      "value": "确定要删除吗？删除后不可恢复"
+    },
+    {
+      "name": "tip_operate_success",
+      "value": "操作成功"
+    },
+    {
+      "name": "tip_operate_failed",
+      "value": "操作失败，请重试"
+    },
+    {
+      "name": "tip_system_busy",
+      "value": "系统繁忙，请稍后再试"
+    },
+    {
+      "name": "tip_data_syncing",
+      "value": "数据同步中..."
+    },
+    {
+      "name": "tip_data_synced",
+      "value": "数据已同步"
+    },
+    {
+      "name": "tip_login_expired",
+      "value": "登录已过期，请重新登录"
+    },
+    {
+      "name": "title_personal_info",
+      "value": "个人信息"
+    },
+    {
+      "name": "title_account_security",
+      "value": "账号与安全"
+    },
+    {
+      "name": "title_notification_setting",
+      "value": "通知设置"
+    },
+    {
+      "name": "title_display_setting",
+      "value": "显示设置"
+    },
+    {
+      "name": "title_language_setting",
+      "value": "语言设置"
+    },
+    {
+      "name": "title_about_app",
+      "value": "关于应用"
+    },
+    {
+      "name": "title_help_feedback",
+      "value": "帮助与反馈"
+    },
+    {
+      "name": "title_history_record",
+      "value": "历史记录"
+    },
+    {
+      "name": "title_favorite",
+      "value": "我的收藏"
+    },
+    {
+      "name": "title_download",
+      "value": "我的下载"
+    },
+    {
+      "name": "title_message_center",
+      "value": "消息中心"
+    },
+    {
+      "name": "title_inbox",
+      "value": "收件箱"
+    },
+    {
+      "name": "title_draft",
+      "value": "草稿箱"
+    },
+    {
+      "name": "title_trash",
+      "value": "回收站"
+    },
+    {
+      "name": "title_category",
+      "value": "分类"
+    },
+    {
+      "name": "title_recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "title_hot",
+      "value": "热门"
+    },
+    {
+      "name": "title_newest",
+      "value": "最新"
+    },
+    {
+      "name": "title_setting",
+      "value": "设置"
+    },
+    {
+      "name": "hint_input_name",
+      "value": "请输入姓名"
+    },
+    {
+      "name": "hint_input_phone",
+      "value": "请输入手机号"
+    },
+    {
+      "name": "hint_input_email",
+      "value": "请输入邮箱"
+    },
+    {
+      "name": "hint_input_password",
+      "value": "请输入密码"
+    },
+    {
+      "name": "hint_input_confirm_password",
+      "value": "请确认密码"
+    },
+    {
+      "name": "hint_input_search",
+      "value": "请输入搜索内容"
+    },
+    {
+      "name": "hint_input_nickname",
+      "value": "请输入昵称"
+    },
+    {
+      "name": "hint_input_address",
+      "value": "请输入地址"
+    },
+    {
+      "name": "hint_input_remark",
+      "value": "请输入备注"
+    },
+    {
+      "name": "hint_select_date",
+      "value": "请选择日期"
+    },
+    {
+      "name": "hint_select_time",
+      "value": "请选择时间"
+    },
+    {
+      "name": "hint_select_category",
+      "value": "请选择分类"
+    },
+    {
+      "name": "hint_select_image",
+      "value": "请选择图片"
+    },
+    {
+      "name": "status_pending",
+      "value": "待处理"
+    },
+    {
+      "name": "status_processing",
+      "value": "处理中"
+    },
+    {
+      "name": "status_completed",
+      "value": "已完成"
+    },
+    {
+      "name": "status_canceled",
+      "value": "已取消"
+    },
+    {
+      "name": "status_expired",
+      "value": "已过期"
+    },
+    {
+      "name": "status_valid",
+      "value": "有效"
+    },
+    {
+      "name": "status_invalid",
+      "value": "无效"
+    },
+    {
+      "name": "label_all",
+      "value": "全部"
+    },
+    {
+      "name": "label_unread",
+      "value": "未读"
+    },
+    {
+      "name": "label_read",
+      "value": "已读"
+    },
+    {
+      "name": "label_starred",
+      "value": "已标星"
+    },
+    {
+      "name": "label_unstarred",
+      "value": "未标星"
+    },
+    {
+      "name": "label_today",
+      "value": "今天"
+    },
+    {
+      "name": "label_yesterday",
+      "value": "昨天"
+    },
+    {
+      "name": "label_week",
+      "value": "本周"
+    },
+    {
+      "name": "label_month",
+      "value": "本月"
     }
   ]
 }
